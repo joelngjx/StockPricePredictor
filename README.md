@@ -9,3 +9,5 @@ This passion project of mine is an attempt to tackle the prediction of $SPY pric
 * Scaling Back & Visualisation
   - Scaling back normalised values to actual price values with `inverse_transform()`
   - Visualisation: Matplotlib -- displays predicted vs actual train and test prices for $SPY
+ 
+The workflow above successfully achieved a Train MAE of 0.01614 and a Test MAE of 0.03837 after 1000 epochs of training
